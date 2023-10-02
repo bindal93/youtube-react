@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "id1",
+      "snippet": {
+        "channelTitle": "dummy",
+        "title": "dummy",
+        "thumbnails": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Fast_and_Furious_Poster.jpg/220px-Fast_and_Furious_Poster.jpg"
+      },
+      "statistics": {
+        "viewCount": 1
+      }
+    },
+    {
+      "id": "id2",
+      "snippet": {
+        "channelTitle": "dummy1",
+        "title": "dummy1",
+        "thumbnails": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Fast_and_Furious_Poster.jpg/220px-Fast_and_Furious_Poster.jpg"
+      },
+      "statistics": {
+        "viewCount": 1
+      }
+    },
+    {
+      "id": "id3",
+      "snippet": {
+        "channelTitle": "dummy2",
+        "title": "dummy2",
+        "thumbnails": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Fast_and_Furious_Poster.jpg/220px-Fast_and_Furious_Poster.jpg"
+      },
+      "statistics": {
+        "viewCount": 1
+      }
+    }
+  ]
+}
